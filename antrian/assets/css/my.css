@@ -1,0 +1,17 @@
+body{
+	background: #2fa9ca url(../img/4.jpg) center center no-repeat fixed;
+	background-size: 100%;
+}
+.myPanel{
+	background: rgba(255,255,255,.4);
+	border: none;
+	border-radius: 0;
+}
+.myPanel .panel-heading{
+	border: none;
+	background: transparent;
+}
+.bigbutton{
+	color: #80bfeb;
+	border-radius: 0;
+}
